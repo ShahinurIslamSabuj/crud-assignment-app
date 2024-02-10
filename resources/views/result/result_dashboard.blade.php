@@ -146,8 +146,8 @@
                             <th>District Name</th>
                             <th>Institute</th>
                             <th>Passing Year</th>
-                            <th>Delete</th>
                             <th>Edit</th>
+                            <th>Delete</th>
                         </tr>
                     </thead>
                     <tbody>
