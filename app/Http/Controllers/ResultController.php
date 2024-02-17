@@ -72,3 +72,5 @@ class ResultController extends Controller
         return redirect()->route('display', $id);
     }
 }
+
+
